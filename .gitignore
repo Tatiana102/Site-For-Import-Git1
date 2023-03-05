@@ -1,0 +1,9 @@
+tmp/
+*old
+*secret.md
+*backup
+Thumbs.db/
+.DS_Store/
+*Thumbs.db
+*DS_Store
+/Thumbs.db/
